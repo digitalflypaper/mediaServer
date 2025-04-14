@@ -1,7 +1,7 @@
 # mediaServer
 # Digital Flypaper Media Server - User Guide
 
-This guide provides step-by-step instructions for setting up and using the Go Media Server, designed to be accessible for non-technical users.
+This guide provides step-by-step instructions for setting up and using the Digital Flypaper Media Server, designed to be accessible for non-technical users.
 
 ## Setup Guide
 
@@ -83,7 +83,7 @@ This guide provides step-by-step instructions for setting up and using the Go Me
 
 ### Viewing Files
 
-1. In the file list, find the file you want to view.
+1. Find the file you want to view in the file list.
 2. Click the "View" button next to the file.
 3. The file will open in the viewer:
    - Videos and audio will have playback controls
@@ -92,13 +92,13 @@ This guide provides step-by-step instructions for setting up and using the Go Me
 
 ### Downloading Files
 
-1. In the file list, find the file you want to download.
+1. Find the file you want to download in the file list.
 2. Click the "Download" button next to the file.
 3. The file will download to your computer.
 
 ### Deleting Files
 
-1. In the file list, find the file you want to delete.
+1. Find the file you want to delete in the file list.
 2. Click the "Delete" button next to the file.
 3. Confirm the deletion when prompted.
 4. The file will be removed from the server.
