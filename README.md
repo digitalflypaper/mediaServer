@@ -5,7 +5,7 @@ A standalone HTTP server that serves media files and provides an MRSS feed.
 ## Features
 
 - Serves media files (videos, audio, images, documents) via HTTP
-- Provides a Media RSS (MRSS) feed for integration with media players and podcatchers
+- Provides a Media RSS (MRSS) feed for integration with media players and podcasters
 - Simple web interface for browsing, viewing, uploading, and deleting files
 - Cross-platform: runs on Linux, macOS, and Windows
 - Single executable file for easy distribution and installation
