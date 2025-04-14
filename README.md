@@ -1,4 +1,36 @@
 # mediaServer
+
+A standalone HTTP server that serves media files and provides an MRSS feed.
+
+## Features
+
+- Serves media files (videos, audio, images, documents) via HTTP
+- Provides a Media RSS (MRSS) feed for integration with media players and podcatchers
+- Simple web interface for browsing, viewing, uploading, and deleting files
+- Cross-platform: runs on Linux, macOS, and Windows
+- Single executable file for easy distribution and installation
+- No external dependencies required
+
+## Quick Start
+
+1. Download the executable for your platform from the releases page
+2. Create a directory to store your media files (or use an existing one)
+3. Run the executable:
+
+```
+# Linux/macOS
+./media-server --port 8080 --dir /path/to/media
+
+# Windows
+media-server.exe --port 8080 --dir C:\path\to\media
+```
+
+4. Open a web browser and navigate to `http://localhost:8080`
+
+
+
+
+
 # Digital Flypaper Media Server - User Guide
 
 This guide provides step-by-step instructions for setting up and using the Digital Flypaper Media Server, designed to be accessible for non-technical users.
